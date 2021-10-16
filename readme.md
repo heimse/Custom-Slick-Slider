@@ -2,6 +2,8 @@ Hello everyone!
 
 This is my responsive slick slider with https://kenwheeler.github.io/slick/ library!
 
+The slider was made as a custom part of tilda (sites constructor) project.
+
 
 Contacts of the designer: 
 
